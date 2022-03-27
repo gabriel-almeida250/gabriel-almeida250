@@ -1,4 +1,4 @@
-### Olá!
+### Olá! Me chamo Gabriel Almeida, sou um iniciante no mundo da tecnologia
 
 🌱 Atualmente estudando tecnologia no Serratec
 <div align="center">
