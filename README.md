@@ -1,6 +1,6 @@
-### Olá! Me chamo Gabriel Almeida, sou um iniciante no mundo da tecnologia
+### Olá, meu nome é Gabriel Almeida! Sou um iniciante no mundo da tecnologia.
 
-Atualmente estudando tecnologia no Serratec
+ 💻 Atualmente estudando tecnologia no Serratec.
 
 <div align="rigth">
   <a href="https://github.com/gabriel-almeida250">
