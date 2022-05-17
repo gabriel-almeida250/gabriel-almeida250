@@ -1,7 +1,7 @@
 ## Olá, meu nome é Gabriel Almeida! Sou um iniciante no mundo da tecnologia.
 <div align="center">
-  <a href="https://github.com/gabriel-almeida250">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-almeida250&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true">
+  <a href="https://github.com/gabriel-almeida250"/>
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-almeida250&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-almeida250&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
   <div style="display: inline_block"><br>
