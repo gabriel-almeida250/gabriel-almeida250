@@ -1,4 +1,4 @@
-## Full Stack Developer - Neki | Java | JavaScript | HTML/CSS | PostgreSQL | Spring Boot/API RESTful | ReactJS | React Native | UML | Git/Github
+## Full Stack Developer - Neki
 
 <div align="center">
 
