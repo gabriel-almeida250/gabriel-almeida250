@@ -1,4 +1,4 @@
-## Full Stack Developer - Neki
+## Full Stack Developer
 
 <div align="center">
 
